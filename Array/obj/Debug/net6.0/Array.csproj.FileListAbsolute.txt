@@ -1,0 +1,15 @@
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\bin\Debug\net6.0\Array.exe
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\bin\Debug\net6.0\Array.deps.json
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\bin\Debug\net6.0\Array.dll
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\bin\Debug\net6.0\Array.pdb
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\obj\Debug\net6.0\Array.dll
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\obj\Debug\net6.0\refint\Array.dll
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\obj\Debug\net6.0\Array.pdb
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+C:\Репозитории\ДомашкиC#\HomeWorkFour\Array\obj\Debug\net6.0\ref\Array.dll
